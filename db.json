@@ -1,12 +1,43 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "news": [
+    {
+      "id": "bce5e10d-5c88-4ec9-8e0b-176d30e03f85",
+      "title": "New website!",
+      "content": "Hooray, we have launched a new web site with information about the project and a news feed!",
+      "imgUrl": "https://www.bootstrapbayblog.com/wp-content/uploads/2021/01/Picture1-750x410.png"
+    },
+    {
+      "id": "012e567a-9220-4759-9306-6acf9d569af4",
+      "title": "New core features development",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "imgUrl": "https://www.thoughtco.com/thmb/cby8H-zA6cLcH3nnfCzQSqC0xHA=/735x0/5925354646_581f193d2c_o-56a28a335f9b58b7d0cbebe0.jpg"
+    },
+    {
+      "id": "d524e676-e943-4f1c-85ea-412f76791ede",
+      "title": "Hotfix!",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "imgUrl": "https://miro.medium.com/max/1400/0*wyjnAPFoNHOA0W51"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "features": [
+    {
+      "id": "bce5e10d-5c88-4ec9-8e0b-176d30e03f85",
+      "title": "New website!",
+      "content": "Hooray, we have launched a new web site with information about the project and a news feed!",
+      "imgUrl": "https://www.bootstrapbayblog.com/wp-content/uploads/2021/01/Picture1-750x410.png"
+    },
+    {
+      "id": "012e567a-9220-4759-9306-6acf9d569af4",
+      "title": "New core features development",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "imgUrl": "https://www.thoughtco.com/thmb/cby8H-zA6cLcH3nnfCzQSqC0xHA=/735x0/5925354646_581f193d2c_o-56a28a335f9b58b7d0cbebe0.jpg"
+    },
+    {
+      "id": "d524e676-e943-4f1c-85ea-412f76791ede",
+      "title": "Hotfix!",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "imgUrl": "https://miro.medium.com/max/1400/0*wyjnAPFoNHOA0W51"
+    }
   ],
   "profile": {
     "name": "typicode"
